@@ -184,7 +184,7 @@ Using `fit_transform` on the training data and `transform` on other datasets ens
 
 ### 2. Ordinal Encoding
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 assigning each uniques value to an integer in a way that explains the hierarchy of categorical values. "Every Day">"Most Days">Rarely">"Never"
 
@@ -194,7 +194,7 @@ Not all categorical variables have a clear ordering in the values, but we refer 
 
 **One-hot encoding** creates new columns indicating the presence (or absence) of each possible value in the original data.
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 In contrast to ordinal encoding, one-hot encoding _does not_ assume an ordering of the categories. Thus, you can expect this approach to work particularly well if there is no clear ordering in the categorical data . Such variables are called **Nominal Variables**
 
