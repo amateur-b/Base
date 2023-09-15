@@ -217,5 +217,3 @@ print(object_cols)
 # "Cardinality" means the number of unique values in a column
 ```
 {% endhint %}
-
-## Delete this Later
